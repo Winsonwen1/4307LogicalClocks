@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VS OwlNet chat</string>
+    <string name="app_name2">Settings Activity</string>
+    <string name="test">VS OwlNet chat</string>
+    <string name="textHint">User Name</string>
+    <string name="buJoin">Join</string>
+    <string name="buSetting">Setting</string>
+    <string name="buSubmit">Submit</string>
+    <string name="serverAddress">server’s address </string>
+    <string name="port">port</string>
+</resources>
